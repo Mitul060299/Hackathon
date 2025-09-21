@@ -1,0 +1,10 @@
+streamlit==1.26.0
+torch
+transformers
+accelerate
+sentencepiece
+sentence-transformers
+faiss-cpu
+pandas
+numpy
+scikit-learn
